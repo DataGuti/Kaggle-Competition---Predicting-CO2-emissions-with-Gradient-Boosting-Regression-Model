@@ -3,6 +3,8 @@ A short Kaggle competition with the goal of creating a **Machine Learning predic
 For this competition I had **only 24 hours** (since I discovered the last day) so I decided to build a single Machine Learning model and improve it as much as possible in the little time I had.
 On this occasion, there'll be only one jupyter notebook and the EDA will be very brief: it's only purpose will be choosing the right data to train the model.
 
+**Important note:** the **resulting model** and **training/test datasets** were **too big to upload** here, even being compressed.
+
 ## Introducing the case
 Tracking carbon emissions is fundamental when it comes to deciding on measures against climate change. For this challenge, the objective was to create a predictive model (using Machine Learning) trained on open-source CO2 emissions **data from Sentinel-5P sattelite** observations.
 
